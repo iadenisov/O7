@@ -5,4 +5,6 @@ Subsystems:
 * [Micro](Micro): framework for microcontrollers
 * [Mobx](Mobx): [Micro](Micro) examples
 
-Alexander V. Shiryaev, 2017
+[Some notes](http://obertone.ru/ob/o7) (in Russian)
+
+Alexander V. Shiryaev, 2019

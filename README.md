@@ -11,7 +11,7 @@ Repository contains:
 * [O7](O7): compiler and linker
 * [Micro](Micro): framework for microcontrollers
 * [Mobx](Mobx): examples for the Micro framework
-* [Disp](Disp): drivers ans examples for displays
+* [Disp](Disp): drivers and examples for displays
 
 [Reed notes](https://wiki.oberon.org/ob/o7) (in Russian)
 
